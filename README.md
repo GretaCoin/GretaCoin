@@ -1,4 +1,8 @@
-### Hi there 👋
+### GretaCoin is an open source peer-to-peer cryptocurrency loved by environmentalists around the world.
+
+go to https://gretacoin.io
+
+share!
 
 <!--
 **GretaCoin/GretaCoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
